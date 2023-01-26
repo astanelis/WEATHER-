@@ -152,7 +152,7 @@
     text-align: center;
   }
   
-  @media (max-width: 600px) {
+  @media (max-width: 710px) {
     .weather-forecast {
       width: 100%;
     }
@@ -178,7 +178,7 @@
     }
   }
   
-  @media (min-width: 601px) {
+  @media (min-width: 710px) {
     body {
       font-size: 1em;
     }
